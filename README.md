@@ -5,7 +5,7 @@
 ### Programming Languages
 
 <p>
-<a href=""><img src=""https://img.shields.io/badge/Test-blue"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/"C_Sharp-%23239120.svg?logo=C+Sharp&logoColor=white"/></a>
 </p>
 
 ### 
