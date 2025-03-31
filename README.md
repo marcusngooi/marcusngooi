@@ -6,9 +6,9 @@
 
 <p>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/C%20Sharp-purple"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&labelColor=%23F7DF1E"></a>
-<a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&labelColor=%233178C6"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5t&labelColor=%23E34F26"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&labelColor=%23F7DF1E&logoColor=white"></a>
+<a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&labelColor=%233178C6&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&labelColor=%23E34F26"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-%23663399?logo=css&labelColor=%23663399"></a>
 </p>
 
