@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <p>
 <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black"></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue"></a>
-<a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-purple></a>
+<a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-purple"></a>
 <a href="https://zen-browser.app/"><img alt="Zen Browser" src="https://img.shields.io/badge/Zen%20Browser-%23F76F53?logo=zenbrowser"></a>
 </p>
 
