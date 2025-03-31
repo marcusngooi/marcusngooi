@@ -5,11 +5,11 @@
 ### Programming Languages
 
 <p>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/"C%20Sharp-purple"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img alt="JavaScript" src="https://img.shields.io/badge/"https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&labelColor=white"/></a>
-<a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/"TypeScript-%233178C6?style=flat&logo=typescript&labelColor=white"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" src="https://img.shields.io/badge/"https://img.shields.io/badge/HTML5-%23E34F26?style=flat&labelColor=white"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/"https://img.shields.io/badge/CSS-%23663399?style=flat&logo=css&logoColor=%23663399&labelColor=white"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/"C%20Sharp-purple"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&labelColor=white"></a>
+<a href="https://www.typescriptlang.org"><img alt="TypeScript" src="https://img.shields.io/badge/"TypeScript-%233178C6?style=flat&logo=typescript&labelColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" src="https://img.shields.io/badge/"https://img.shields.io/badge/HTML5-%23E34F26?style=flat&labelColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/"https://img.shields.io/badge/CSS-%23663399?style=flat&logo=css&logoColor=%23663399&labelColor=white"></a>
 </p>
 ### 
 
